@@ -1,18 +1,18 @@
 {
-    "Name": "Iron Ore",
+    "Name": "Copper/Mythril",
     "Waypoints": [
         {
             "Position": {
-                "X": 544.3884,
-                "Y": 124.1641,
-                "Z": -232.1562
+                "X": 600.6575,
+                "Y": 37.51842,
+                "Z": 222.6777
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -30,16 +30,16 @@
         },
         {
             "Position": {
-                "X": 572.8371,
-                "Y": 128.2395,
-                "Z": -269.4717
+                "X": 641.156,
+                "Y": 24.28121,
+                "Z": 221.0411
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -57,16 +57,70 @@
         },
         {
             "Position": {
-                "X": 557.6779,
-                "Y": 128.0081,
-                "Z": -275.9122
+                "X": 663.5482,
+                "Y": 18.433178,
+                "Z": 202.73996
+            },
+            "ZoneID": 1055,
+            "Radius": 3.0,
+            "Movement": 2,
+            "Pathfind": true,
+            "InteractWithOID": 0,
+            "InteractWithName": "",
+            "showInteractions": false,
+            "Interaction": 1,
+            "EmoteID": 0,
+            "ItemID": 0,
+            "ActionID": 0,
+            "QuestID": 0,
+            "QuestSeq": 0,
+            "MobID": 0,
+            "StopCondition": 0,
+            "KillCount": 0,
+            "RouteName": "",
+            "showWaits": false,
+            "WaitForCondition": 0,
+            "WaitTimeMs": 0
+        },
+        {
+            "Position": {
+                "X": 669.9719,
+                "Y": 10.486738,
+                "Z": 195.863
+            },
+            "ZoneID": 1055,
+            "Radius": 3.0,
+            "Movement": 2,
+            "Pathfind": false,
+            "InteractWithOID": 0,
+            "InteractWithName": "",
+            "showInteractions": false,
+            "Interaction": 1,
+            "EmoteID": 0,
+            "ItemID": 0,
+            "ActionID": 0,
+            "QuestID": 0,
+            "QuestSeq": 0,
+            "MobID": 0,
+            "StopCondition": 0,
+            "KillCount": 0,
+            "RouteName": "",
+            "showWaits": false,
+            "WaitForCondition": 0,
+            "WaitTimeMs": 0
+        },
+        {
+            "Position": {
+                "X": 678.0068,
+                "Y": 9.963017,
+                "Z": 182.0015
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -84,16 +138,16 @@
         },
         {
             "Position": {
-                "X": 472.0354,
-                "Y": 145.7703,
-                "Z": -228.265
+                "X": 671.8672,
+                "Y": 10.62969,
+                "Z": 203.0203
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -111,16 +165,16 @@
         },
         {
             "Position": {
-                "X": 433.9998,
-                "Y": 145.5576,
-                "Z": -210.6754
+                "X": 689.2758,
+                "Y": 10.39976,
+                "Z": 209.9887
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -138,16 +192,16 @@
         },
         {
             "Position": {
-                "X": 402.4033,
-                "Y": 164.3566,
-                "Z": -227.2448
+                "X": 663.6569,
+                "Y": 10.03732,
+                "Z": 254.2879
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -165,70 +219,16 @@
         },
         {
             "Position": {
-                "X": 399.4955,
-                "Y": 164.6461,
-                "Z": -229.3117
-            },
-            "ZoneID": 0,
-            "Radius": 2.0,
-            "Movement": 0,
-            "Pathfind": true,
-            "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
-            "showInteractions": false,
-            "Interaction": 1,
-            "EmoteID": 0,
-            "ItemID": 0,
-            "ActionID": 0,
-            "QuestID": 0,
-            "QuestSeq": 0,
-            "MobID": 0,
-            "StopCondition": 0,
-            "KillCount": 0,
-            "RouteName": "",
-            "showWaits": false,
-            "WaitForCondition": 0,
-            "WaitTimeMs": 0
-        },
-        {
-            "Position": {
-                "X": 400.3239,
-                "Y": 164.5317,
-                "Z": -225.7801
-            },
-            "ZoneID": 0,
-            "Radius": 2.0,
-            "Movement": 0,
-            "Pathfind": true,
-            "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
-            "showInteractions": false,
-            "Interaction": 1,
-            "EmoteID": 0,
-            "ItemID": 0,
-            "ActionID": 0,
-            "QuestID": 0,
-            "QuestSeq": 0,
-            "MobID": 0,
-            "StopCondition": 0,
-            "KillCount": 0,
-            "RouteName": "",
-            "showWaits": false,
-            "WaitForCondition": 0,
-            "WaitTimeMs": 0
-        },
-        {
-            "Position": {
-                "X": 422.1337,
-                "Y": 180.554,
-                "Z": -245.0709
+                "X": 625.0063,
+                "Y": 11.17028,
+                "Z": 259.3951
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -246,16 +246,16 @@
         },
         {
             "Position": {
-                "X": 451.5381,
-                "Y": 181.1604,
-                "Z": -258.6256
+                "X": 580.6673,
+                "Y": 10.17752,
+                "Z": 294.9113
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "agave plant",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -273,16 +273,70 @@
         },
         {
             "Position": {
-                "X": 459.8427,
-                "Y": 181.1584,
-                "Z": -247.0854
+                "X": 509.9933,
+                "Y": 17.56881,
+                "Z": 293.5699
             },
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "agave plant",
+            "showInteractions": false,
+            "Interaction": 1,
+            "EmoteID": 0,
+            "ItemID": 0,
+            "ActionID": 0,
+            "QuestID": 0,
+            "QuestSeq": 0,
+            "MobID": 0,
+            "StopCondition": 0,
+            "KillCount": 0,
+            "RouteName": "",
+            "showWaits": false,
+            "WaitForCondition": 0,
+            "WaitTimeMs": 0
+        },
+        {
+            "Position": {
+                "X": 481.0665,
+                "Y": 22.54302,
+                "Z": 315.433
+            },
+            "ZoneID": 0,
+            "Radius": 2.0,
+            "Movement": 2,
+            "Pathfind": true,
+            "InteractWithOID": 2012985,
+            "InteractWithName": "palm tree",
+            "showInteractions": false,
+            "Interaction": 1,
+            "EmoteID": 0,
+            "ItemID": 0,
+            "ActionID": 0,
+            "QuestID": 0,
+            "QuestSeq": 0,
+            "MobID": 0,
+            "StopCondition": 0,
+            "KillCount": 0,
+            "RouteName": "",
+            "showWaits": false,
+            "WaitForCondition": 0,
+            "WaitTimeMs": 0
+        },
+        {
+            "Position": {
+                "X": 463.6004,
+                "Y": 59.543,
+                "Z": 242.4637
+            },
+            "ZoneID": 0,
+            "Radius": 2.0,
+            "Movement": 2,
+            "Pathfind": true,
+            "InteractWithOID": 2012985,
+            "InteractWithName": "cotton plant",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
