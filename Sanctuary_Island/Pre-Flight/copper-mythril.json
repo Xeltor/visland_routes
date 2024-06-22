@@ -57,16 +57,16 @@
         },
         {
             "Position": {
-                "X": 678.0068,
-                "Y": 9.963017,
-                "Z": 182.0015
+                "X": 663.5482,
+                "Y": 18.433178,
+                "Z": 202.73996
             },
-            "ZoneID": 0,
-            "Radius": 2.0,
+            "ZoneID": 1055,
+            "Radius": 3.0,
             "Movement": 2,
             "Pathfind": true,
-            "InteractWithOID": 2012985,
-            "InteractWithName": "bluish rock",
+            "InteractWithOID": 0,
+            "InteractWithName": "",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -84,16 +84,43 @@
         },
         {
             "Position": {
-                "X": 681.26196,
-                "Y": 9.028489,
-                "Z": 179.71396
+                "X": 669.9719,
+                "Y": 10.486738,
+                "Z": 195.863
             },
-            "ZoneID": 0,
-            "Radius": 1.0,
+            "ZoneID": 1055,
+            "Radius": 3.0,
             "Movement": 2,
-            "Pathfind": true,
+            "Pathfind": false,
             "InteractWithOID": 0,
             "InteractWithName": "",
+            "showInteractions": false,
+            "Interaction": 1,
+            "EmoteID": 0,
+            "ItemID": 0,
+            "ActionID": 0,
+            "QuestID": 0,
+            "QuestSeq": 0,
+            "MobID": 0,
+            "StopCondition": 0,
+            "KillCount": 0,
+            "RouteName": "",
+            "showWaits": false,
+            "WaitForCondition": 0,
+            "WaitTimeMs": 0
+        },
+        {
+            "Position": {
+                "X": 678.0068,
+                "Y": 9.963017,
+                "Z": 182.0015
+            },
+            "ZoneID": 0,
+            "Radius": 2.0,
+            "Movement": 2,
+            "Pathfind": true,
+            "InteractWithOID": 2012985,
+            "InteractWithName": "bluish rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
