@@ -121,7 +121,7 @@
             "Pathfind": true,
             "InteractWithOID": 2012985,
             "InteractWithName": "quartz formation",
-            "showInteractions": false,
+            "showInteractions": true,
             "Interaction": 1,
             "EmoteID": 0,
             "ItemID": 0,
@@ -246,16 +246,16 @@
         },
         {
             "Position": {
-                "X": 422.1337,
-                "Y": 180.554,
-                "Z": -245.0709
+                "X": 435.2769,
+                "Y": 181.3014,
+                "Z": -256.4258
             },
             "ZoneID": 1055,
             "Radius": 2.0,
             "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "rough black rock",
+            "InteractWithName": "quartz formation",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
@@ -273,16 +273,16 @@
         },
         {
             "Position": {
-                "X": 435.2769,
-                "Y": 181.3014,
-                "Z": -256.4258
+                "X": 451.5381,
+                "Y": 181.1604,
+                "Z": -258.6256
             },
             "ZoneID": 1055,
             "Radius": 2.0,
-            "Movement": 0,
+            "Movement": 2,
             "Pathfind": true,
             "InteractWithOID": 2012985,
-            "InteractWithName": "quartz formation",
+            "InteractWithName": "rough black rock",
             "showInteractions": false,
             "Interaction": 1,
             "EmoteID": 0,
