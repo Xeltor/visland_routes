@@ -280,7 +280,7 @@
             "ZoneID": 0,
             "Radius": 2.0,
             "Movement": 2,
-            "Pathfind": true,
+            "Pathfind": false,
             "InteractWithOID": 2012985,
             "InteractWithName": "tualong tree",
             "showInteractions": false,
